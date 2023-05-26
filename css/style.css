@@ -11,13 +11,14 @@ main{
     background: #FFF;
     width: 560px;
     margin: auto;
-    padding: 10px;
+    padding: 20px;
     box-shadow: 3px 3px 5px #000;
 }
 
 h1{
     font-size: 2em;
     color: rgb(58, 0, 112);
+    margin-bottom: 8px;
 }
 
 h2{
@@ -25,8 +26,13 @@ h2{
     color: rgb(58, 0, 112);
 }
 
+img.simbolo{
+    padding-left: 130px;
+}
+
 img.lado{
     float: right;
+    margin-left: 3px;
 }
 
 a{
